@@ -3,9 +3,12 @@
     border-radius: 50%;
     height: 200pt;
     width: 400pt;
+    color:aliceblue
 }
 .bod {
-    background-image: url('https://cutewallpaper.org/21/coolest-steam-profile-backgrounds/Discussion-Best-Steam-profile-backgrounds-.jpg');
+    background-image: url('https://free4kwallpapers.com/uploads/originals/2015/07/14/background-color-black.jpg');
+    height: fit-content;
+    width: fit-content;
 }
 .navigation {
     position: fixed;
@@ -51,4 +54,7 @@
     line-height: 60px;
     text-align: center;
     display: block;
+}
+.btn {
+    border-radius: 1000px;
 }
